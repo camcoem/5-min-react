@@ -2,15 +2,18 @@
   padding: 10px;
 }
 
-.app .jumbotron {
+.app,
+.jumbotron {
   text-align: center;
 }
 
-.app .card {
+.app,
+.card {
   margin-bottom: 10px;
 }
 
-.app .card-header {
+.app,
+.card-header {
   color: blue;
   font-weight: bold;
 }
